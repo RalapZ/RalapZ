@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RalapZ
-- 👀 I’m interested in 
-- 🌱 I’m currently learning math
-- ✨ missions: Make Ops interesting
+- 👋 About me 
+   I’m @RalapZ ;I’m currently learning math just for my fun
+- ✨ missions: 
+   Make Ops interesting
 
 
 <!---
