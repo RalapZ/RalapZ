@@ -3,7 +3,7 @@
 ### Mission: 
     Make Ops interesting
 ### Value:
-    Honest,Frank,Faith
+    Honest,Dependability,Frank,Faith
 
 
 <!---
