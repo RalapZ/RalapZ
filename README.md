@@ -2,6 +2,8 @@
     Be an upright and useful person
 ### Mission: 
     Make Ops interesting
+### Value:
+    Honest,Frank,Faith
 
 
 <!---
