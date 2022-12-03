@@ -1,5 +1,5 @@
 ### Vision:
-   be an upright person
+    Be an upright person
 ### Mission: 
     Make Ops interesting
 
