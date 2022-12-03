@@ -1,6 +1,6 @@
-### 👋 About me 
-    I’m @RalapZ ;I’m currently learning math just for my fun
-### ✨ missions: 
+### Vision
+   be an upright person
+### Mission: 
     Make Ops interesting
 
 
